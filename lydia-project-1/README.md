@@ -1,3 +1,11 @@
+# First project in the GA Data Science Immersive course
+
+Demonstrated skills include:
+* command of basic python datatypes and structures
+* statistical analysis
+
+Assignment description is as follows:
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Game programming and analysis
 
 ## Business Case
